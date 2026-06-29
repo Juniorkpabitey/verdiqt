@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+/* App canvas: soft white / cool grey — Cursor-inspired SaaS neutral base */
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  body {
+    background-color: #fafafa;
+    color: #18181b;
+  }
+}
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+}

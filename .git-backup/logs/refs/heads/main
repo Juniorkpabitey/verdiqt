@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 e4a2efebc16f92314bcea9b7ac1852dece4e02d7 juniorkpabitey <juniorkpabitey123@gmail.com> 1778551597 +0000	commit (initial): first commit
+e4a2efebc16f92314bcea9b7ac1852dece4e02d7 e4a2efebc16f92314bcea9b7ac1852dece4e02d7 juniorkpabitey <juniorkpabitey123@gmail.com> 1778551622 +0000	Branch: renamed refs/heads/master to refs/heads/main
+e4a2efebc16f92314bcea9b7ac1852dece4e02d7 4265cc1218eb5e35a60dd76c1020b76064ced5aa juniorkpabitey <juniorkpabitey123@gmail.com> 1782177224 +0000	commit: db migrations
+4265cc1218eb5e35a60dd76c1020b76064ced5aa f5661b89b99f3779eb8f8140f77d1cd634ac05f2 juniorkpabitey <juniorkpabitey123@gmail.com> 1782320505 +0000	commit: roles assigning & db migration
+f5661b89b99f3779eb8f8140f77d1cd634ac05f2 e2ab0e0f73aa0cfca070dd9ed0a1d4c17219e958 juniorkpabitey <juniorkpabitey123@gmail.com> 1782320538 +0000	commit: sql db migration
+e2ab0e0f73aa0cfca070dd9ed0a1d4c17219e958 a7b919874c640dc718bdcd21bd9b0cbfbed0f08d Juniorkpabitey <juniorkpabitey123@gmail.com> 1782723530 +0000	commit: model data with RAG
+a7b919874c640dc718bdcd21bd9b0cbfbed0f08d 08ea378e3f9b9a21d90b7658e8933c3093b8ef9c Juniorkpabitey <juniorkpabitey123@gmail.com> 1782724186 +0000	commit: env
+08ea378e3f9b9a21d90b7658e8933c3093b8ef9c a7b919874c640dc718bdcd21bd9b0cbfbed0f08d Juniorkpabitey <juniorkpabitey123@gmail.com> 1782724230 +0000	reset: moving to HEAD~1
+a7b919874c640dc718bdcd21bd9b0cbfbed0f08d a65c6c3165a5d80e884d9dd1ad8eeaca09dee6b5 Juniorkpabitey <juniorkpabitey123@gmail.com> 1782724262 +0000	commit: Remove sensitive data from .env

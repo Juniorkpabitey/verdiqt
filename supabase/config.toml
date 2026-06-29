@@ -1,0 +1,9 @@
+[project]
+id = "jursiafrica"
+name = "Verdiqt"
+
+[api]
+enabled = true
+
+[functions.ai-intelligence]
+verify_jwt = true
